@@ -34,8 +34,22 @@
 ### 📊 GitHub & Coding Stats
 
 <div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=abhiii-raj&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+  </a>
+</div>
+
+<br />
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abhiii-raj&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhiii-raj&theme=tokyonight&hide_border=true&background=0D1117" width="48%" alt="GitHub Streak" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhiii-raj&theme=tokyonight&hide_border=true&bg_color=0D1117" width="100%" alt="Contribution Graph" />
 </div>
 
 <br />
